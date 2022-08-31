@@ -1,0 +1,3 @@
+<launch>
+  <node pkg="xihelm_turtlebot" type="xihelm_node.py" name="xihelm_node" output="screen" />
+</launch>
